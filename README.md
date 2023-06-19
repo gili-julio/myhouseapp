@@ -14,9 +14,10 @@ No projeto, foram utilizadas as seguintes ferramentas:
 - Estilo: CSS via Bootstrap (https://getbootstrap.com)
 - Banco de dados: MySQL
 
-## <a href="[https://pt-br.reactjs.org/](https://www.linkedin.com/posts/giliardojulio_laravel-php-javascript-activity-7063917603634712576-FA_4?utm_source=share&utm_medium=member_desktop)">🔗 Linkedin Publicação</a>
+## Linkedin Publicação
 
-Publicação realizada no Linkedin sobre o app
+Publicação realizada no Linkedin sobre o app:
+- https://www.linkedin.com/posts/giliardojulio_laravel-php-javascript-activity-7063917603634712576-FA_4
 
 ## Acessar Localmente
 
