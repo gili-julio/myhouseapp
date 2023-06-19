@@ -1,5 +1,5 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/laravel-10.x-green">
-<img alt="Static Badge" src="https://img.shields.io/badge/php-8.1-blue">
+<p><img alt="Static Badge" src="https://img.shields.io/badge/laravel-10.x-green">
+<img alt="Static Badge" src="https://img.shields.io/badge/php-8.1-blue"></p>
 
 
 ## MyHouseApp
@@ -13,6 +13,10 @@ No projeto, foram utilizadas as seguintes ferramentas:
 - Linguagens: PHP e JavaScript
 - Estilo: CSS via Bootstrap (https://getbootstrap.com)
 - Banco de dados: MySQL
+
+## <a href="[https://pt-br.reactjs.org/](https://www.linkedin.com/posts/giliardojulio_laravel-php-javascript-activity-7063917603634712576-FA_4?utm_source=share&utm_medium=member_desktop)">🔗 Linkedin Publicação</a>
+
+Publicação realizada no Linkedin sobre o app
 
 ## Acessar Localmente
 
